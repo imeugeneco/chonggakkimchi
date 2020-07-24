@@ -1,4 +1,4 @@
-# 총각김치
+# Chonggak Kimchi
 총각김치팀의 캐글 프로젝트 데이터 파일 기록 및 관리용
 
 ### word2vec-nlp-tutorial
